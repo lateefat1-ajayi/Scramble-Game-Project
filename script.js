@@ -19,10 +19,38 @@ const words = [
         word: "euphoria",
         hint :"A state of intense happiness"
     } ,
+ {
+        word: "obtain",
+        hint :"To come into possession of something"
+    } ,
+    {
+        word: "compel",
+        hint :"Force somebody to do something"
+    } ,
+    {
+        word: "gravity",
+        hint :"Force of attraction"
+    } ,
+    {
+        word: "malice",
+        hint :"The desire to see others suffer"
+    } ,
+    {
+        word: "exertion",
+        hint :"Use of physical or mental energy"
+    } ,
 
     {
         word: "damp",
         hint :"A little wet"
+    } ,
+    {
+        word: "cower",
+        hint :"Crouch or curl up"
+    } ,
+    {
+        word: "pacify",
+        hint :"Ease the anger"
     } ,
 
     {
